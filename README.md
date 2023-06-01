@@ -10,5 +10,4 @@
 
 5. Mini Board with Firebase
 
-6. Member Join Form 
-
+6. Member Join Form
