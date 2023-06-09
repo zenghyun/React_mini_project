@@ -12,4 +12,4 @@
 
 6. Member Join Form
 
-7 Redux With Firebase
+7. Redux With Firebase
