@@ -11,3 +11,5 @@
 5. Mini Board with Firebase
 
 6. Member Join Form
+
+7 Redux With Firebase
