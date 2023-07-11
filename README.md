@@ -1,5 +1,6 @@
 # Mini Project
 
+## React with JavaScript
 1. Chart Program
 
 2. Todo App
@@ -16,4 +17,10 @@
 
 8. Multiple Board Page with Backend (node)
 
+<br>
+
+## React with TypeScript
+
 9. TodoList with Typescript
+
+10. TodoList with Typescript & React Router Dom
